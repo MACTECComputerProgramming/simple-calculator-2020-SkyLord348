@@ -1,0 +1,17 @@
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB.csprojAssemblyReference.cache
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB_MarkupCompile.cache
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB_MarkupCompile.lref
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\bin\Debug\netcoreapp3.1\CalculatorProjectLPB.exe
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\bin\Debug\netcoreapp3.1\CalculatorProjectLPB.deps.json
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\bin\Debug\netcoreapp3.1\CalculatorProjectLPB.runtimeconfig.json
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\bin\Debug\netcoreapp3.1\CalculatorProjectLPB.runtimeconfig.dev.json
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\bin\Debug\netcoreapp3.1\CalculatorProjectLPB.dll
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\bin\Debug\netcoreapp3.1\CalculatorProjectLPB.pdb
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB.g.resources
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB.AssemblyInfoInputs.cache
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB.AssemblyInfo.cs
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB.dll
+C:\Users\MaconRM180\source\repos\CalculatorProjectLPB\obj\Debug\netcoreapp3.1\CalculatorProjectLPB.pdb
