@@ -1,0 +1,24 @@
+﻿<Window x:Class="CalculatorProjectLPB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculatorProjectLPB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="labelOne">
+        <TextBox x:Name="textBoxOne" HorizontalAlignment="Left" Margin="143,66,0,0" Text="Number" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Visibility="Visible" Background="White" BorderBrush="{x:Null}"/>
+        <TextBox x:Name="textBoxTwo" HorizontalAlignment="Left" Margin="143,104,0,0" Text="Number " TextWrapping="Wrap" VerticalAlignment="Top" Width="60" BorderBrush="{x:Null}"/>
+        <Button x:Name="buttonAdd" Content="Add" HorizontalAlignment="Left" Margin="148,197,0,0" VerticalAlignment="Top" Width="85" Click="buttonAdd_Click"/>
+        <Button x:Name="buttonSubtract" Content="Subtract" HorizontalAlignment="Left" Margin="238,197,0,0" VerticalAlignment="Top" Width="84" Click="buttonSubtract_Click"/>
+        <Button x:Name="buttonDivide" Content="Divide" HorizontalAlignment="Left" Margin="196,232,0,0" VerticalAlignment="Top" Width="85" Click="buttonDivide_Click"/>
+        <Button x:Name="buttonModulus" Content="Modulus" HorizontalAlignment="Left" Margin="286,232,0,0" VerticalAlignment="Top" Width="85" Click="buttonModulus_Click"/>
+        <Button x:Name="buttonMultiply" Content="Multiply" HorizontalAlignment="Left" Margin="327,197,0,0" VerticalAlignment="Top" Width="84" Click="buttonMultiply_Click"/>
+        <Button x:Name="buttonClear" Content="Clear" HorizontalAlignment="Left" Margin="196,267,0,0" VerticalAlignment="Top" Width="175" Click="buttonClear_Click"/>
+        <TextBox x:Name="textBoxThree" HorizontalAlignment="Left" Margin="465,81,0,0" Text="Total" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" BorderBrush="{x:Null}"/>
+        <TextBox x:Name="textBoxNumberOne" HorizontalAlignment="Left" Margin="220,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18" BorderBrush="Black"/>
+        <TextBox x:Name="textBoxNumberTwo" HorizontalAlignment="Left" Margin="220,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18" BorderBrush="Black"/>
+        <Label x:Name="labelOne1" Content="" HorizontalAlignment="Left" Margin="520,75,0,0" VerticalAlignment="Top" Width="100" BorderBrush="Black" BorderThickness="1,1,1,1" Height="32"/>
+
+    </Grid>
+</Window>
